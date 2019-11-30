@@ -4,6 +4,7 @@
   "description": "Simple role based access control (RBAC) library.",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
+  "repository": "https://github.com/strange-secrets/rbac",
   "scripts": {
     "build-ts": "tsc",
     "build": "npm run build-ts",
